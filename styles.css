@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+  }
+  body {
+    color: white;
+  }
+  h1 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 12px;
+    color: lightgray;
+  }
